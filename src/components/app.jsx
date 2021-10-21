@@ -12,9 +12,8 @@ class App extends Component {
 
     this.state = {
       gifs: [],
-      selectedGifId:'TimdJbWqALMhh78DtE'
+      selectedGifId:'mIMsLsQTJzAn6'
     }
-    // this.search("homer thinking");
   }
 
   search = (query) => {
